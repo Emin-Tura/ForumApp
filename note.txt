@@ -1,0 +1,63 @@
+Publish Kısmı:
+Yazı yayınlama kısmını onaya sunarak yapılabilir.
+Author yetkisine sahip kişi içerikleri yayınlayabilir.
+Author yetkisine sahip kişi içerikleri yayından kaldırabilir.
+Content kısmına published gibi bir alan ekleyeceğiz bunun için.
+Yayından kaldırlan yazılar Yönetim panelinde görüntülenebilir. Admin onay verirse yayına alınır.
+
+
+Content Kısmı:
+örneğin code formatında yazılan içerikler kopyalanabilir özellikte olmalı
+read time özelliği eklenebilir
+Yorum yapma eklenebilir bir düşün.
+düzenleme yetkiye bağlı olabilir
+çokluy yazar özelliği
+
+
+Yönetim sistemi:
+İçerik ekleme kısmını özelleştir
+Misal diyelim içerik giren kişi Başlık: yazdıysa bunu farklı formatta gösterebilirsin. Filtrleme yapabilirsin.
+
+User Kısmı:
+Kullanıcıya konuyu takip et diye bir buton verilebilir. Konuyu takip eden kullanıcıya mail o konuya ait bir şey eklendiğinde mail atılabilir.
+Yorum yapma seçeneği eklenebilir.
+Bu kısımlar. Google ile authenticate bir şekilde olabilir.
+
+About Kısmı:
+iletişim formu eklenebilir
+
+Dil Kısmı:
+Dil seçeneği eklenebilir. Yapıyı ona göre kurdun zaten.
+
+
+Productiona çıkarırken https://create-react-app.dev/docs/adding-custom-environment-variables/ buna göz at
+if (process.env.NODE_ENV !== 'production') {
+  analytics.disable();
+}
+
+
+ERROR:
+[Error - 5:11:21 PM] Request textDocument/codeAction failed.
+Bunu bir araştır. Output kısmında hata veriyor. Sebebi ne bilmiyorum.
+
+
+getContent yaptığında emaili vs hashleyebilirsin
+
+
+Profile kısmında yazılarıma git diye bir seçenek olabilir
+
+blog panelinde content id değil de başlık gözüksün bu seo açısından daha iyi olur
+
+mongodb yi server olarak da kullanabilirsin. Şu an localde çalışıyor. Heroku gibi bir yerde deploy edersen orada da çalışır.
+
+
+
+
+ÖNCELİKLİK!!!!
+Yazar kısmında en altta default olaraka yazarın github hesabı vs... gelebilir.
+Firebase ile yorum yapma özelliği eklenebilir.
+Backgrounda slider image eklenebilir.
+
+googleAuthenticate de kaldın ona bak
+
+kişisel diye bir kategori ekle oraya sadece sen ekleme yapabil. Hakkımda sayfasında yaptığın projelerden bahset slide şeklinde resimleri koy dedegroup gibi ama daha modern. 

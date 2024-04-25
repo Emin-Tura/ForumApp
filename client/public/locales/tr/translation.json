@@ -1,0 +1,113 @@
+{
+  "username": "Kullanıcı Adı",
+  "password": "Parola",
+  "session": {
+    "logout": "Oturum süreniz dolmuştur. Lütfen tekrar giriş yapınız."
+  },
+  "login": "Giriş",
+  "logout": "Çıkış",
+  "lastArticles": "Son Yazılar",
+  "seeAll": "Tümünü Gör",
+  "search": "Ara",
+  "title": "Başlık",
+  "author": "Yazar",
+  "authorLink": "Yazar Linki",
+  "sometext": "Bir yazı yazın...",
+  "head": "Başlık",
+  "profile": "Profil",
+
+  "pages": {
+    "home": "Anasayfa",
+    "blog": "Blog",
+    "users": "Kullanıcılar",
+    "aboutUs": "Hakkımda",
+    "blogys": "Blog Yönetim Sistemi"
+  },
+
+  "content": {
+    "delete": "İçeriği Sil",
+    "deleteConfirm": "İçeriği silmek istediğinize emin misiniz?",
+    "deleteSuccess": "İçerik başarıyla silindi.",
+    "createSuccess": "İçerik başarıyla oluşturuldu.",
+    "updateSuccess": "İçerik başarıyla güncellendi.",
+    "updateError": "İçerik güncellenirken bir hata oluştu.",
+    "publish": "Yayınla",
+    "publishConfirm": "İçeriği yayınlamak istediğinize emin misiniz?",
+    "unPublish": "Yayından Kaldır",
+    "unPublishConfirm": "İçeriği yayından kaldırmak istediğinize emin misiniz?",
+    "publishSuccess": "İçerik başarıyla yayınlandı.",
+    "unPublishSuccess": "İçerik yayından kaldırıldı.",
+    "publishError": "İçerik yayınlanırken bir hata oluştu.",
+    "unPublishError": "İçerik yayından kaldırılırken bir hata oluştu."
+  },
+
+  "category": {
+    "categories": "Kategoriler",
+    "all": "Tümü",
+    "technology": "Teknoloji",
+    "software": "Yazılım",
+    "hardware": "Donanım",
+    "gaming": "Oyun",
+    "programming": "Programlama",
+    "design": "Tasarım",
+    "marketing": "Pazarlama",
+    "other": "Diğer"
+  },
+
+  "user": {
+    "users": "Kullanıcılar",
+    "add": "Kullanıcı Ekle",
+    "name": "Kullanıcı Adı",
+    "email": "E-Posta",
+    "date": "Kayıt Tarihi",
+    "actions": "İşlemler",
+    "search": "Kullanıcı Ara",
+    "create": "Kullanıcı Oluştur",
+    "edit": "Kullanıcı Düzenle",
+    "delete": "Kullanıcı Sil",
+    "deleteConfirm": "Kullanıcıyı silmek istediğinize emin misiniz?",
+    "password": "Parola",
+    "confirmPassword": "Parola Tekrar",
+    "role": "Rol",
+    "roles": {
+      "admin": "Admin",
+      "user": "Kullanıcı",
+      "author": "Yazar"
+    },
+    "success": "Kullanıcı başarıyla oluşturuldu.",
+    "createdAt": "Oluşturulma Tarihi",
+    "oldPassword": "Eski Parola",
+    "newPassword": "Yeni Parola",
+    "createSuccess": "Kullanıcı başarıyla oluşturuldu.",
+    "deleteSuccess": "Kullanıcı başarıyla silindi.",
+    "updateSuccess": "Kullanıcı başarıyla güncellendi."
+  },
+
+  "button": {
+    "previous": "Geri",
+    "next": "İleri",
+    "login": "Giriş Yap",
+    "submit": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "add": "Ekle",
+    "close": "Kapat",
+    "save": "Kaydet",
+    "yes": "Evet",
+    "no": "Hayır",
+    "confirm": "Onayla",
+    "download": "İndir",
+    "update": "Güncelle",
+    "clear": "Temizle",
+    "send": "Gönder"
+  },
+
+  "tooltip": {
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "download": "İndir",
+    "unPublish": "Yayından Kaldır",
+    "publish": "Yayınla"
+  }
+}
